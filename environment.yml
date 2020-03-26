@@ -1,0 +1,7 @@
+name: advmechsolids-environment
+channels:
+  - conda-forge
+dependencies:
+  - sympy      
+  - numpy
+  - matplotlib
