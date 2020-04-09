@@ -10,10 +10,12 @@ The course home page is maintained at: [http://www.facweb.iitkgp.ac.in/~jeevanjy
 
 1. [Elastica](https://nbviewer.jupyter.org/github/jeevanjyoti4/advmechsolids/blob/master/Elastica.ipynb)
 
-2. Classical Plate Theory example: [Simply supported rectangular plate under sinusoidal loading](https://nbviewer.jupyter.org/github/jeevanjyoti4/advmechsolids/blob/master/rect_plate_cpt.ipynb)
+2. Classical Plate Theory examples: 
+   	* [Circular plate: axisymmetric](https://nbviewer.jupyter.org/github/jeevanjyoti4/advmechsolids/blob/master/circular_plate_cpt.ipynb)
+	* [Simply-supported rectangular plate under sinusoidal loading](https://nbviewer.jupyter.org/github/jeevanjyoti4/advmechsolids/blob/master/rect_plate_cpt.ipynb)
 
-3. F&ouml;ppl-von K&aacute;rm&aacute;n examples:
+4. F&ouml;ppl-von K&aacute;rm&aacute;n examples:
 	* [Simply-supported rectangular subjected to uniform in-plane, uniaxial tension](https://nbviewer.jupyter.org/github/jeevanjyoti4/advmechsolids/blob/master/rect_plate_vonK.ipynb)
 	* [Clamped circular plate subjected to uniform in-plane compression](https://nbviewer.jupyter.org/github/jeevanjyoti4/advmechsolids/blob/master/circular_plate_Foppl-vonK.ipynb)
 	* [Annular plate clamped along outer periphery and subjected to uniform in-plane compression](https://nbviewer.jupyter.org/github/jeevanjyoti4/advmechsolids/blob/master/annular_plate_Foppl-vonK.ipynb)
-4. [Torsion examples: Shaft with circular and elliptical cross-section; hollow cross-sections](https://nbviewer.jupyter.org/github/jeevanjyoti4/advmechsolids/blob/master/torsion.ipynb)
+5. [Torsion examples: Shaft with circular and elliptical cross-section; hollow cross-sections](https://nbviewer.jupyter.org/github/jeevanjyoti4/advmechsolids/blob/master/torsion.ipynb)
