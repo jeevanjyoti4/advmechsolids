@@ -19,5 +19,4 @@ The course home page is maintained at: [http://www.facweb.iitkgp.ac.in/~jeevanjy
 	* [Clamped circular plate subjected to uniform in-plane compression](https://nbviewer.jupyter.org/github/jeevanjyoti4/advmechsolids/blob/master/circular_plate_Foppl-vonK.ipynb)
 	* [Annular plate clamped along outer periphery and subjected to uniform in-plane compression](https://nbviewer.jupyter.org/github/jeevanjyoti4/advmechsolids/blob/master/annular_plate_Foppl-vonK.ipynb)
 4. [Torsion examples: Shaft with circular and elliptical cross-section; hollow cross-sections](https://nbviewer.jupyter.org/github/jeevanjyoti4/advmechsolids/blob/master/torsion.ipynb)
-5. [Unsymmetric Bending]:
-	* [Matplotlib-based GUI to calculate centroid, second moments of area, and neutral axis for L-shaped cross-section](https://nbviewer.jupyter.org/github/jeevanjyoti4/advmechsolids/blob/master/unsymm_bending_gui.ipynb)
+5. Unsymmetric Bending: [Matplotlib-based GUI to calculate centroid, second moments of area, and neutral axis for L-shaped cross-section](https://nbviewer.jupyter.org/github/jeevanjyoti4/advmechsolids/blob/master/unsymm_bending_gui.ipynb)
